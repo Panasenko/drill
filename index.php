@@ -40,8 +40,12 @@ $myrow_settings = mysql_fetch_array($res_settings);?>
     </article>
     <aside><?php include("blocks/aside.php"); ?></aside>
     <footer><?php include("blocks/footer.php"); ?></footer>
+<<<<<<< HEAD
 </div> 
 
+=======
+</div> <!-- wrapper -->
+>>>>>>> fb0dd6ae394314daee96ae2fb278c71a5e2092ab
 </body>
 
 </html>

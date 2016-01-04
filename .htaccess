@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AddDefaultCharset UTF-8
 RewriteEngine On
 RewriteRule ^uslugi/(\d+)$ /services.php?services=$1
@@ -6,3 +7,13 @@ RewriteRule ^aktsii$ stock.php
 RewriteRule ^kontakt$ contact.php
 RewriteRule ^onas$ about.php
 RewriteRule ^uslugi$ services.php
+=======
+AddDefaultCharset UTF-8
+RewriteEngine On
+RewriteRule ^uslugi/(\d+)$ /services.php?services=$1
+RewriteRule ^tsena$ prices.php
+RewriteRule ^aktsii$ stock.php
+RewriteRule ^kontakt$ contact.php
+RewriteRule ^onas$ about.php
+RewriteRule ^uslugi$ services.php
+>>>>>>> fb0dd6ae394314daee96ae2fb278c71a5e2092ab

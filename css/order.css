@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #wrapper_order{ 
     width: 720px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5); 
@@ -39,3 +40,46 @@
     
 }
 
+=======
+#wrapper_order{ 
+    width: 720px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5); 
+    border-radius: 5px;
+    padding: 20px 20px;
+    margin: 20px auto;
+    background-color: #E1E4F1;
+}
+
+
+
+#table_order {
+    width: 800px;
+    padding: 10px 10px 10px 10px;
+        
+    
+}
+
+#table_order tr td {
+    padding: 10px 10px 10px 10px;
+        
+    
+}
+
+#table_order tr td input {
+    padding: 5px 5px;
+    border-radius: 5px;
+
+    width: 200px;
+    
+}
+#table_order tr td textarea {
+    padding: 5px 5px;
+    border-radius: 5px;
+
+    width: 680px;
+    height: 70px;
+    resize:none;
+    
+}
+
+>>>>>>> fb0dd6ae394314daee96ae2fb278c71a5e2092ab
